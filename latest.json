@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-12.2",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-12.2/GleneagleAdmin-2026-10-12.2.dmg",
-  "notes": ""
+  "version": "2026-10-12.3",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-12.3/GleneagleAdmin-2026-10-12.3.dmg",
+  "notes": "Accountants' file import: read the accountants' returned spreadsheet (TFNs and dates of birth), match each row to an investor, review what would be saved, and approve before anything is written. Yamte Enterprises logo added to the header; Gleneagle Admin logo moved to the right, in line with the menu."
 }
