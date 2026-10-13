@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-12.3",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-12.3/GleneagleAdmin-2026-10-12.3.dmg",
-  "notes": "Accountants' file import: read the accountants' returned spreadsheet (TFNs and dates of birth), match each row to an investor, review what would be saved, and approve before anything is written. Yamte Enterprises logo added to the header; Gleneagle Admin logo moved to the right, in line with the menu."
+  "version": "2026-10-13.1",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-13.1/GleneagleAdmin-2026-10-13.1.dmg",
+  "notes": "Load Applications from Spreadsheet (Clients > More): fill in missing client details from an extracted application-forms spreadsheet. Each row is matched to a client and shown as on-file vs from-the-sheet with a tick to accept; nothing is saved until you press Apply. You can correct a value before accepting it, create a new client from an unmatched row, and the same tax number recorded for an unrelated person is flagged."
 }
