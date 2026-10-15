@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-13.1",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-13.1/GleneagleAdmin-2026-10-13.1.dmg",
-  "notes": "Load Applications from Spreadsheet (Clients > More): fill in missing client details from an extracted application-forms spreadsheet. Each row is matched to a client and shown as on-file vs from-the-sheet with a tick to accept; nothing is saved until you press Apply. You can correct a value before accepting it, create a new client from an unmatched row, and the same tax number recorded for an unrelated person is flagged."
+  "version": "2026-10-15.1",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-15.1/GleneagleAdmin-2026-10-15.1.dmg",
+  "notes": "Tax Statements: total units shown beside total interest, the investor list is open by default, and columns can be sorted. New Records Consistency Check (Settings > Checks & Repair): finds a person appearing on more than one record with differing date of birth, tax number or address, and clients whose investments pay to different bank accounts; choose which is right and make them the same. Groups can be hidden as not a problem (remembered, and shown again if they change), and every change can be undone from Recent changes."
 }
