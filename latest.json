@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-15.1",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-15.1/GleneagleAdmin-2026-10-15.1.dmg",
-  "notes": "Tax Statements: total units shown beside total interest, the investor list is open by default, and columns can be sorted. New Records Consistency Check (Settings > Checks & Repair): finds a person appearing on more than one record with differing date of birth, tax number or address, and clients whose investments pay to different bank accounts; choose which is right and make them the same. Groups can be hidden as not a problem (remembered, and shown again if they change), and every change can be undone from Recent changes."
+  "version": "2026-10-15.2",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-15.2/GleneagleAdmin-2026-10-15.2.dmg",
+  "notes": "Receive Funds (unit trust Register tab): record new funds or a top-up in one step. Each deposit is recorded on the product on its own date, the units go on the register as one allotment or top-up on a separate register date with its certificate, and a confirmation email draft (initial purchase or top-up wording, editable per trust, with Bcc) is prepared with the certificate attached. Records Consistency Check: investments paying to the same bank account under a different bank name, account name or BSB formatting can now be made the same."
 }
