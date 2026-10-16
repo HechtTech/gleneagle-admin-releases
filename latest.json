@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-15.2",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-15.2/GleneagleAdmin-2026-10-15.2.dmg",
-  "notes": "Receive Funds (unit trust Register tab): record new funds or a top-up in one step. Each deposit is recorded on the product on its own date, the units go on the register as one allotment or top-up on a separate register date with its certificate, and a confirmation email draft (initial purchase or top-up wording, editable per trust, with Bcc) is prepared with the certificate attached. Records Consistency Check: investments paying to the same bank account under a different bank name, account name or BSB formatting can now be made the same."
+  "version": "2026-10-16.1",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-16.1/GleneagleAdmin-2026-10-16.1.dmg",
+  "notes": "Applicants: when adding an applicant to a client, pick an existing person (another client's applicant, or an individual client) instead of typing their details again. Their name, date of birth, address and country fill in and their tax number is copied across when you save, without ever showing in the form. Capacity (trustee, director, etc.) is still chosen per client."
 }
