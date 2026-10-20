@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-19.1",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-19.1/GleneagleAdmin-2026-10-19.1.dmg",
-  "notes": "Receive Funds: any client can now be chosen, including one with no investment in the chosen product yet (for example a Parkview investor buying into a Hansen trust) \u2014 their investment in the product is created with the first deposit, with bank details copied from one of their other investments if wanted. The new certificate number is now added automatically to the product investment's certificate numbers (optional per receipt, the previous value is reported, and the field stays editable on the investment)."
+  "version": "2026-10-20.1",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-20.1/GleneagleAdmin-2026-10-20.1.dmg",
+  "notes": "Reports (new menu item): Funds Movement Report \u2014 pick a period and products and get one PDF with headline figures, a stacked bar chart of funds under management by product month by month, monthly tables of deposits, rollovers, withdrawals, interest earned and closing balance for all products and each product, and which clients deposited and withdrew. Preview it on screen or download it."
 }
