@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-20.2",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-20.2/GleneagleAdmin-2026-10-20.2.dmg",
-  "notes": "Updated to the current long-term-support Node runtime; clearer error when a unit certificate can't be generated; Add Client now asks for Units Held and Join Date; wording works for Mac and Windows."
+  "version": "2026-10-20.3",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-20.3/GleneagleAdmin-2026-10-20.3.dmg",
+  "notes": "Funds Movement Report: Excel-style filters by product, fund, status and currency; every product named in the charts; new bar chart of new deposits by product and a line chart of funds under management per product."
 }
