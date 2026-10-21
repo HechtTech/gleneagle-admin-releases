@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-21.1",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.1/GleneagleAdmin-2026-10-21.1.dmg",
-  "notes": "New checks on money entries: no negative amounts, tax can't exceed its credit, rates must be 0-100%, and the app asks before a balance goes below zero. Month-end skips an investment that already has interest in that calendar month. Funds report: Interest column label. Disabled buttons now look disabled and Reports explains why it can't run."
+  "version": "2026-10-21.2",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.2/GleneagleAdmin-2026-10-21.2.dmg",
+  "notes": "Safer importers: product, register and application-form imports now check amounts, dates, duplicates, currencies, BSB/TFN/ABN/postcode formats and refuse entries that would take a balance below zero. Unit certificates are cancelled (with the date) when their units are redeemed or transferred away."
 }
