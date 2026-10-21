@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-21.2",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.2/GleneagleAdmin-2026-10-21.2.dmg",
-  "notes": "Safer importers: product, register and application-form imports now check amounts, dates, duplicates, currencies, BSB/TFN/ABN/postcode formats and refuse entries that would take a balance below zero. Unit certificates are cancelled (with the date) when their units are redeemed or transferred away."
+  "version": "2026-10-21.3",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.3/GleneagleAdmin-2026-10-21.3.dmg",
+  "notes": "Funds Movement Report: the two charts now group by fund (Hansen 1st and 2nd, Parkview 1st and 2nd) instead of by product, and the report carries the real Gleneagle logo. The app's font is now bundled instead of fetched at build time."
 }
