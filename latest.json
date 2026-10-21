@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-21.3",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.3/GleneagleAdmin-2026-10-21.3.dmg",
-  "notes": "Funds Movement Report: the two charts now group by fund (Hansen 1st and 2nd, Parkview 1st and 2nd) instead of by product, and the report carries the real Gleneagle logo. The app's font is now bundled instead of fetched at build time."
+  "version": "2026-10-21.4",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.4/GleneagleAdmin-2026-10-21.4.dmg",
+  "notes": "Safer client saves: only the fields you change are saved, client names and Australian bank numbers are checked, error messages are in plain English, and dates are sanity-checked. Search treats % and _ literally, Merge saves a safety backup first, product codes must be unique ignoring capitals, and rates must be plain numbers."
 }
