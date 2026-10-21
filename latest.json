@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-20.4",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-20.4/GleneagleAdmin-2026-10-20.4.dmg",
-  "notes": "Move to Another Computer (Settings): one passphrase-locked transfer file to move all data to a new machine. Update check now compares version numbers correctly (e.g. .10 is newer than .9). Behind-the-scenes release and Windows build groundwork."
+  "version": "2026-10-21.1",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.1/GleneagleAdmin-2026-10-21.1.dmg",
+  "notes": "New checks on money entries: no negative amounts, tax can't exceed its credit, rates must be 0-100%, and the app asks before a balance goes below zero. Month-end skips an investment that already has interest in that calendar month. Funds report: Interest column label. Disabled buttons now look disabled and Reports explains why it can't run."
 }
