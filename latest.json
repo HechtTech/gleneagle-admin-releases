@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-21.4",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-21.4/GleneagleAdmin-2026-10-21.4.dmg",
-  "notes": "Safer client saves: only the fields you change are saved, client names and Australian bank numbers are checked, error messages are in plain English, and dates are sanity-checked. Search treats % and _ literally, Merge saves a safety backup first, product codes must be unique ignoring capitals, and rates must be plain numbers."
+  "version": "2026-10-23.1",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.1/GleneagleAdmin-2026-10-23.1.dmg",
+  "notes": "Tax numbers: you can now remove a TFN or IRD number from a client or applicant (a Remove link under the box, or empty the box when numbers are shown). New check in Settings > Checks & Repair finds individual and joint clients with a tax number on both the client and the applicant, and removes the client-level copy."
 }
