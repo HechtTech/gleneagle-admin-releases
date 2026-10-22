@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-23.1",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.1/GleneagleAdmin-2026-10-23.1.dmg",
-  "notes": "Tax numbers: you can now remove a TFN or IRD number from a client or applicant (a Remove link under the box, or empty the box when numbers are shown). New check in Settings > Checks & Repair finds individual and joint clients with a tax number on both the client and the applicant, and removes the client-level copy."
+  "version": "2026-10-23.2",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.2/GleneagleAdmin-2026-10-23.2.dmg",
+  "notes": "Removed the Export Client Emails button from a product's Monthly Run tab (Email Drafts is the way to email statements)."
 }
