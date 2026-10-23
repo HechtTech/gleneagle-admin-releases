@@ -1,7 +1,7 @@
 {
-  "version": "2026-10-23.2",
-  "installerUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.2/Gleneagle-Admin-Setup-2026-10-23.2.exe",
-  "sha256": "db0d543efdf4aa99c8a839445b6a468f3713a1b788cb40c6a7a651eac1fc6840",
-  "size": 159729252,
-  "notes": "Removed the Export Client Emails button from a product's Monthly Run tab (Email Drafts is the way to email statements)."
+  "version": "2026-10-23.3",
+  "installerUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.3/Gleneagle-Admin-Setup-2026-10-23.3.exe",
+  "sha256": "7b4d9e9685695145ec494bfe3ad2827a699d0310bf4e44caa43e8fc0f2d6f6e0",
+  "size": 159739710,
+  "notes": "More checks: email addresses are checked (several allowed in one box; drafts skip an invalid one by name), amounts and units with more than 2 decimal places are refused, pop-up forms ask before discarding what you typed, and unknown-product pages say Product not found."
 }
