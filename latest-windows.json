@@ -1,7 +1,7 @@
 {
-  "version": "2026-10-23.3",
-  "installerUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.3/Gleneagle-Admin-Setup-2026-10-23.3.exe",
-  "sha256": "7b4d9e9685695145ec494bfe3ad2827a699d0310bf4e44caa43e8fc0f2d6f6e0",
-  "size": 159739710,
-  "notes": "More checks: email addresses are checked (several allowed in one box; drafts skip an invalid one by name), amounts and units with more than 2 decimal places are refused, pop-up forms ask before discarding what you typed, and unknown-product pages say Product not found."
+  "version": "2026-10-23.4",
+  "installerUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.4/Gleneagle-Admin-Setup-2026-10-23.4.exe",
+  "sha256": "642b193c45341f96c224468478929cbe2e0ce1ad1d3ddc274517eea8d07c9c50",
+  "size": 159744785,
+  "notes": "New in Settings > Checks & Repair: Certificates of Fully Redeemed Holdings lists unit-trust holdings redeemed to zero whose certificates are still marked issued, and marks them cancelled (dated the day the holding reached zero) when you press the button."
 }
