@@ -1,0 +1,7 @@
+{
+  "version": "2026-10-23.2",
+  "installerUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.2/Gleneagle-Admin-Setup-2026-10-23.2.exe",
+  "sha256": "db0d543efdf4aa99c8a839445b6a468f3713a1b788cb40c6a7a651eac1fc6840",
+  "size": 159729252,
+  "notes": "Removed the Export Client Emails button from a product's Monthly Run tab (Email Drafts is the way to email statements)."
+}
