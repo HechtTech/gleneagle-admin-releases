@@ -1,7 +1,7 @@
 {
-  "version": "2026-10-23.4",
-  "installerUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-10-23.4/Gleneagle-Admin-Setup-2026-10-23.4.exe",
-  "sha256": "642b193c45341f96c224468478929cbe2e0ce1ad1d3ddc274517eea8d07c9c50",
-  "size": 159744785,
-  "notes": "New in Settings > Checks & Repair: Certificates of Fully Redeemed Holdings lists unit-trust holdings redeemed to zero whose certificates are still marked issued, and marks them cancelled (dated the day the holding reached zero) when you press the button."
+  "version": "2026-11-09.1",
+  "installerUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-11-09.1/Gleneagle-Admin-Setup-2026-11-09.1.exe",
+  "sha256": "7179a6384be1851c86c15565bfcabe92e665fef48d345784b33e7de4bd75f027",
+  "size": 159755604,
+  "notes": "Receive Funds: add a brand-new client right there (optionally from their application form, with their bank account), and receipt money that was already recorded on the product so older clients can get their units, certificate and email without the deposit being recorded twice. Clients: Add Client no longer needs a product or units."
 }
