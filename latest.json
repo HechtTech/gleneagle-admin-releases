@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-09.1",
-  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-11-09.1/GleneagleAdmin-2026-11-09.1.dmg",
-  "notes": "Receive Funds: add a brand-new client right there (optionally from their application form, with their bank account), and receipt money that was already recorded on the product so older clients can get their units, certificate and email without the deposit being recorded twice. Clients: Add Client no longer needs a product or units."
+  "version": "2026-11-09.2",
+  "dmgUrl": "https://github.com/HechtTech/gleneagle-admin-releases/releases/download/v2026-11-09.2/GleneagleAdmin-2026-11-09.2.dmg",
+  "notes": "Logins and an audit trail. The app now asks for a username and password (the first login is Eli Shellim; choose a password on first open and keep the recovery code). Settings gets a Logins tab and an Audit Log tab, and each client has a History button: every change to clients, applicants, investments, products, transactions and certificates is recorded with who made it, when, and the before and after values."
 }
